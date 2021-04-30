@@ -1,0 +1,12 @@
+
+.container {
+    display: grid;
+    grid-template-columns: 200px;
+  }
+  
+.container .h1 h2 h3 h4{
+    color: cadetblue;
+}
+.item .p{
+    flex-direction: row;
+}

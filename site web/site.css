@@ -1,0 +1,45 @@
+.container{
+    display: grid;
+    grid-template-rows: 60px auto 1600px 170px;
+
+}
+.header{ 
+    float: right;
+    background-color:blue;
+}
+nav{
+float: right;
+    margin: 20px;
+    margin-right: 20px;
+}
+a{background-color:blue;
+    color:black;
+}
+.menu{ 
+    background-color: blanchedalmond;
+}
+.contenu{
+    background-color:bisque;
+}
+.menu h1{ 
+    margin: 10px;
+}
+h2{
+    color: maroon;
+}
+h2 a {
+    color:beige;
+}
+h1{margin: 30px;
+    grid-column: 20px;
+    background-image: url(ff.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+   width: 1200px; height: 400px;
+
+}
+
+.footer{
+    background-color: gray;
+gap: 20px;
+}

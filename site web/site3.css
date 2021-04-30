@@ -1,0 +1,19 @@
+body{background-color: gray;
+}
+img{
+    margin: 60px;
+}
+
+
+.container{
+    display: flex;
+}
+.item{
+    flex-wrap: wrap;
+}
+h2 {
+    color:brown
+}
+h3{
+    color:brown
+}
